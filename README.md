@@ -18,6 +18,6 @@ npm run build
 npm run preview
 ```
 
-📝 ~ Note<br />
+## 📝 ~ Note<br />
 https://github.com/nemutas/ha-labo-2d
 
